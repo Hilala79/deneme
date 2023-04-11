@@ -1,2 +1,2 @@
 def hesapla(sayı):
-	print(sayı)
+	print("Fixbranch te değişiklik yapıyoruz",sayı)
